@@ -1,2 +1,3 @@
 This is the readme file for the first repository.
-Gtu internship. it is good
+Gtu internship. Its going good
+I hope everything stays the same till the end of this internship.
